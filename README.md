@@ -12,6 +12,7 @@
 ## Slides
 
 - [React Rally 2023](./react-rally-2023-slides/Suspense+GraphQL--ReactRally2023.pdf)
+- [RVA.js 2023](./rvajs-2023-slides/RVAJS-Conference-2023.pdf)
 
 ## Spotify Showcase
 
